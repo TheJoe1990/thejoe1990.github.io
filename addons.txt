@@ -8,3 +8,15 @@ icon="https://raw.githubusercontent.com/I-A-C/repository.exodusredux/master/icon
 fanart="https://raw.githubusercontent.com/I-A-C/repository.exodusredux/master/fanart.jpg"
 adult="no"
 description="Exodus Redux Repository and Add-on"
+
+
+name="Gaia"
+plugin="plugin.video.Gaia"
+url="https://raw.github.com/gaiaorigin/gaiaorigin/raw/master/plugin.video.Gaia/"
+repository="repository.Gaia"
+repositoryxml="https://raw.github.com/gaiaorigin/gaiaorigin/raw/master/addons.xml"
+repositoryurl="https://raw.github.com/gaiaorigin/gaiaorigin/raw/master/repository.gaia/repository.gaia"
+icon="https://raw.github.com/gaiaorigin/gaiaorigin/raw/master/icon.png"
+fanart="https://raw.github.com/gaiaorigin/gaiaorigin/raw/master/fanart.jpg"
+adult="no"
+description="Gaia Repository and Add-on"
