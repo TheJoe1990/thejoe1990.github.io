@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thejoe" name="The Joe Repository" version="1.0" provider-name="The Joe">
+	<extension point="xbmc.addon.repository" name="The Joe Repository">
+		<info compressed="false">https://raw.githubusercontent.com/TheJoe1990/TheJoe1990/master/plugins/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/TheJoe1990/TheJoe1990/master/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/TheJoe1990/thejoe1990.github.io/raw/master/plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Joe's Kodi Build Repository</summary>
+		<description>The Joe's Builds</description>
+		<platform>all</platform>
+	</extension>
+</addon>
