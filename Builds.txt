@@ -1,5 +1,5 @@
-name="Base Build Krypton"
-version="1.4"
+name="Base Build Joe"
+version="1.0"
 url="https://thejoe.000webhostapp.com/1113.zip"
 minor="http://"
 gui="https://thejoe.000webhostapp.com/1113_guisettings.zip"
