@@ -1,5 +1,5 @@
 name="Joe Build Krypton"
-version="0.5"
+version="0.6"
 url="https://thejoe.000webhostapp.com/1113.zip"
 minor="http://"
 gui="https://thejoe.000webhostapp.com/1113_guisettings.zip"
