@@ -2,6 +2,10 @@
 |||
 The Joe Update Notifications.
 
-New Build Is OUT! Click DISMISS, another message should pop up
+New Build Is OUT! 
+
+Perfered Video Addon is Exodus, and if Exodus isnt working try Gaia.  Happy Hollidays! 
+
+Click DISMISS, another message should pop up
 click FRESH INSTALL! Once install is done, click force close
 and re-open kodi afterwards and you're good to go.
