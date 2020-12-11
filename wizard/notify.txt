@@ -1,11 +1,6 @@
-1
-|||
-The Joe Update Notifications.
+12/10/2020
 
-New Build Is OUT! 
+New build with some updates and fixes for Venom.  No major changes from the last one.  
 
-Perfered Video Addon is Exodus, and if Exodus isnt working try Gaia.  Happy Hollidays! 
-
-Click DISMISS, another message should pop up
-click FRESH INSTALL! Once install is done, click force close
-and re-open kodi afterwards and you're good to go.
+Merry Christmas!
+-The Joe
