@@ -1,6 +1,13 @@
-12/10/2020
+3.11.2021
 
-New build with some updates and fixes for Venom.  No major changes from the last one.  
+Big update today!  As always, addons should be used in Left to Right order. 
 
-Merry Christmas!
+Seren should be your primary addon for TV Shows and Movies. It has seen a MAJOR update and runs much faster and smoother.  
+Fen should be used if Seren is not working, or if you cannot find the TV Shows and Movies you are looking for.
+The Crew is primarally used for watching live sports, though can also search TV shows and Movies.
+Venom is outdated and no longer supported.  Will be removed from all build on 5.1.2021
+Youtube.  
+
+If you get the message, "It seems the skin has been set to confluance would you like to set it back to confluance." Feel free to say no, this will prevent future messages.  If you have any further questions please reach out to me!  
+
 -The Joe
