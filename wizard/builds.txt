@@ -13,7 +13,7 @@ info="http://"
 description="Custom Made by Joe with love, with Seren and Venom"
 
 name="Joe Build Leia"
-version="0.7.3"
+version="1.0.0"
 url="https://thejoe90.000webhostapp.com/21.8.15.zip"
 minor="http://"
 gui="https://thejoe90.000webhostapp.com/21.8.15_guisettings.zip"
