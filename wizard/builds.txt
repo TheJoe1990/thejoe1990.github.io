@@ -27,7 +27,7 @@ info="http://"
 description="18.9 with Seren, now automatically playing the next episode like netflix, and Fen"
 
 name="Joe Build Android Mobile"
-version="1.0.2"
+version="1.0.3"
 url="https://thejoe90.000webhostapp.com/21.8.16.4.zip"
 minor="http://"
 gui="https://thejoe90.000webhostapp.com/21.8.16.4_guisettings.zip"
