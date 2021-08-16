@@ -13,9 +13,10 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
+ADDONTITLE = '[COLOR limegreen][B]The Joe[/B][/COLOR] Wizard'
 BUILDERNAME = 'OpenWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
+CACHETEXT = No
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://raw.githubusercontent.com/TheJoe1990/thejoe1990.github.io/master/wizard/builds.txt'
 # How often you would like it to check for build updates in days
