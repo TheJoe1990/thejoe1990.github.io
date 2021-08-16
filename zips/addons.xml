@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.thejoewizard" name="The Joe Wizard" version="2.0.0" provider-name="The Joe">
+<addon id="plugin.program.openwizard" name="[COLOR limegreen]The Joe[/COLOR] Wizard" version="1.9.9" provider-name="TheJoe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
